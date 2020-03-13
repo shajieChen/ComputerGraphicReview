@@ -10,6 +10,6 @@
  
 ![Alt Text](https://github.com/shajieChen/ComputerGraphicReview/blob/master/光栅化填充练习/result.gif)
 
- 
+<i class="icon-desktop"></i> 关于编译方式: 基于CMake文件编译 修改OpenCV以及数学库的地址即可
 
 [1]: http://games-cn.org
