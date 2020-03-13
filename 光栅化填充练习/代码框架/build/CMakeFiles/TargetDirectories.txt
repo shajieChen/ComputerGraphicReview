@@ -1,0 +1,3 @@
+/Users/sjcheng/Desktop/图形学作业/Assignment2/代码框架/build/CMakeFiles/rebuild_cache.dir
+/Users/sjcheng/Desktop/图形学作业/Assignment2/代码框架/build/CMakeFiles/edit_cache.dir
+/Users/sjcheng/Desktop/图形学作业/Assignment2/代码框架/build/CMakeFiles/Rasterizer.dir
