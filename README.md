@@ -16,9 +16,11 @@
 简单的Phong模型: 
 ![Alt Text](https://github.com/shajieChen/ComputerGraphicReview/blob/master/纹理与光照/result2.gif)
 
-简单的Bump/Normal Mapping： 
-![Alt Text](https://github.com/shajieChen/ComputerGraphicReview/blob/master/纹理与光照/result2.gif)
+简单的Displacement： 
+![Alt Text](https://github.com/shajieChen/ComputerGraphicReview/blob/master/纹理与光照/result3.gif)
 
+简单的Bump/Normal Mapping: 
+![Alt Text](https://github.com/shajieChen/ComputerGraphicReview/blob/master/纹理与光照/result4.gif)
 
 
 <i class="icon-desktop"></i> 关于编译方式: 基于CMake文件编译 修改OpenCV以及数学库的地址即可
